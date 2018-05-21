@@ -1,0 +1,1 @@
+虽然之前工作一直在用spring+strtus+Mybatis的框架，但是一直对spring+springmvc+mybatis的框架比较陌生，所以想自己搭建一个框架练练手，但也不知道自己做个什么项目比较好，希望大家能提点建议。
